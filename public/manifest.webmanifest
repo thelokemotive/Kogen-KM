@@ -1,0 +1,12 @@
+{
+  "name": "Kogen KM — Harrow Appi",
+  "short_name": "Kogen KM",
+  "description": "Trail running and mountain biking at Harrow Appi International School",
+  "start_url": "/feed",
+  "display": "standalone",
+  "background_color": "#f2f5f1",
+  "theme_color": "#0f3226",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
